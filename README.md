@@ -1,4 +1,5 @@
 # Keyboard-Controlled-UAV-Navigation-and-Autonomous-Landing-Using-Real-Time-Color-Detection
+![image](https://github.com/user-attachments/assets/1f40069c-634b-44d7-96f7-7ffb9487d282)
 
 ## Project Overview
 Unmanned Aerial Vehicles (UAVs) are widely used for surveillance, automation, and smart navigation. This project integrates keyboard-based flight control with real-time color detection, enabling the Parrot Mambo drone to hover over colored blocks (Red, Green, Blue, or Yellow) and land autonomously upon detection.
@@ -114,8 +115,8 @@ This project successfully demonstrated **keyboard-controlled UAV navigation** wi
 ---
 ## Documentation & Final Video 
 
-- [Document]()
-- [Video]()
+- [Document](https://github.com/ChinmayAmrutkar/Keyboard-Controlled-UAV-Navigation-and-Autonomous-Landing-Using-Real-Time-Color-Detection/blob/main/Keyboard-Controlled%20UAV%20Navigation%20%26%20Autonomous%20Landing.pdf)
+- [Video](https://github.com/ChinmayAmrutkar/Keyboard-Controlled-UAV-Navigation-and-Autonomous-Landing-Using-Real-Time-Color-Detection/blob/main/video.mp4)
 ---
 
 ## References
