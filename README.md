@@ -19,7 +19,7 @@ The project leverages MATLAB and Simulink for image processing, thresholding, an
   - MATLAB Image Processing Toolbox
  
 ## Getting Started 
-### Installing Dependencies**
+### Installing Dependencies
 
 1. Install the Parrot Minidrone Support Package:
    ```matlab
